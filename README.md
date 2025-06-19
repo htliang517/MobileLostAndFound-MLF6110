@@ -1,5 +1,5 @@
 # Mobile Lost and Found: MLF-6110
-For more detail, please visit: [https://htliang517.github.io/projects/MLF-6110](https://htliang517.github.io/projects/MLF-6110)
+For more detail, please visit: [https://htliang517.github.io/projects/MLF-6110](https://htliang517.github.io/projects/MLF-6110)  
  All the .git submodule is removed for easier usage.
 
  On robot: src, ROS Master.
